@@ -1,0 +1,38 @@
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.exe
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.deps.json
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.dll
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.pdb
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\Cybersec.8B30439D.Up2Date
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.dll
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\refint\CybersecurityBot.dll
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.pdb
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\obj\Debug\net8.0\ref\CybersecurityBot.dll
+C:\Users\RC_Student_lab\source\repos\CybersecurityBot\bin\Debug\net8.0\welcome.wav
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\welcome.wav
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.exe
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.deps.json
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.dll
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\CybersecurityBot.pdb
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\Cybersec.8B30439D.Up2Date
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.dll
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\refint\CybersecurityBot.dll
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.pdb
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\CybersecurityBot.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\Cybersecurity Bot project\CybersecurityBot\obj\Debug\net8.0\ref\CybersecurityBot.dll
