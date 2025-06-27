@@ -1,6 +1,6 @@
 # Cybersecurity Awareness Chatbot (Part 1) 
 
-A command-line chatbot that educates users about online safety.
+A command-line chatbot that educates users about online safety. 
 
 ## Features 
 - Voice greeting on startup
