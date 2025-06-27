@@ -1,4 +1,4 @@
-# Cybersecurity Awareness Chatbot (Part 1)
+# Cybersecurity Awareness Chatbot (Part 1) 
 
 A command-line chatbot that educates users about online safety.
 
