@@ -2,7 +2,7 @@
 
 A command-line chatbot that educates users about online safety.
 
-## Features
+## Features 
 - Voice greeting on startup
 - ASCII art display
 - Personalized user interaction
